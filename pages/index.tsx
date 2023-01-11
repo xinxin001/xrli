@@ -16,7 +16,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <Image 
-          src="/../public/headshot.png" 
+          src={"/headshot.png"}
           width={144} 
           height={144}
           alt="headshot"
