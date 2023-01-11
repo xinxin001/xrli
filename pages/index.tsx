@@ -35,8 +35,8 @@ export default function Home() {
         <h2>About me</h2>
         <ul>
           <li>
-            I graduated with a B.Sc. in Computer Science from McGill University,
-            with a focus on Data Science and Machine Learning. <br/>
+            I am currently obtaining a B.Sc. in Computer Science from McGill University,
+            with a focus on Data Science and Machine Learning. —
             I was a member of the Computer Science Undergraduate Society,
             and I was a VP of the McGill Artificial Intelligence Society.
           </li>
