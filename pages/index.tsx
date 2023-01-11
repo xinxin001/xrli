@@ -37,8 +37,8 @@ export default function Home() {
           <li>
             I am currently obtaining a B.Sc. in Computer Science from McGill University,
             with a focus on Data Science and Machine Learning. —
-            I was a member of the Computer Science Undergraduate Society,
-            and I was a VP of the McGill Artificial Intelligence Society.
+            I am a tutor at the <a href="https://mcgill-csus.ca">Computer Science Undergraduate Society</a>,
+            and I was a VP at the <a href="https://mcgillai.com">McGill Artificial Intelligence Society</a> (now Senior Advisor).
           </li>
           <li>
             I'm a full-stack software engineer by trade, 
