@@ -69,12 +69,14 @@ export default function Home() {
         </ul>
 
         <h2>Professional Experience</h2>
+        <div style={{marginLeft: '1em'}}>
           <p> <b>Stealth Startup</b> &mdash; Co-founder &mdash; Montreal</p>
           <p> <b>Meta</b> &mdash; Software Engineer Intern &mdash; Menlo Park</p>
           <p> <b>Microsoft</b> &mdash; Software Engineer Intern &mdash; Montreal</p>
           <p> <b>CAE</b> &mdash; Data Science Intern &mdash; Montreal</p>
           <p> <b>UMAknow</b> &mdash; Software Engineer Intern &mdash; Montreal</p>
           <p> <b>CAE</b> &mdash; Software Engineer Intern &mdash; Montreal</p>
+        </div>
 
 
         <h2>Projects</h2>
