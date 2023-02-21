@@ -52,6 +52,11 @@ export default function Home() {
         <h2>Technical stuff</h2>
         <ul>
           <li>
+          I really love AI&ML, and I've been hanging out with the folks at McGill Artificial Intelligence society to feed my interest. 
+          It's been awesome because I've both learned a ton about AI&ML and got to help others out. 
+          Plus, I've become pretty good at using Python and exploring all its ecosystem.
+          </li>
+          <li>
             For front-end web technologies, I have experience with both React and Angular, 
             as well as the meta-frameworks built around them. 
             Although I prefer to stick with React and TypeScript.
@@ -61,10 +66,16 @@ export default function Home() {
             However, I'm also experimenting with Go, 
             as well as Rust + actix-web for <i><b> blazingly fast </b></i> results! 🦀
           </li>
-          <li>
-            I use nvim as my main editor, but I switch to VSCode when I need to work on a team project.
-          </li>
         </ul>
+
+        <h2>Professional Experience</h2>
+          <p> <b>Stealth Startup</b> &mdash; Co-founder &mdash; Montreal</p>
+          <p> <b>Meta</b> &mdash; Software Engineer Intern &mdash; Menlo Park</p>
+          <p> <b>Microsoft</b> &mdash; Software Engineer Intern &mdash; Montreal</p>
+          <p> <b>CAE</b> &mdash; Data Science Intern &mdash; Montreal</p>
+          <p> <b>UMAknow</b> &mdash; Software Engineer Intern &mdash; Montreal</p>
+          <p> <b>CAE</b> &mdash; Software Engineer Intern &mdash; Montreal</p>
+
 
         <h2>Projects</h2>
         <p>Non-exhaustive list of projects outside of work</p>
