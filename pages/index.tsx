@@ -29,7 +29,7 @@ export default function Home() {
         </p>
 
         <p>This site is meant to be a brief introduction of myself. 
-          A brief rundown on past experiences, things I've built, and stuff that I find interesting.
+          A brief rundown on past experiences, things I&apos;ve built, and stuff that I find interesting.
         </p>
 
         <h2>About me</h2>
@@ -41,7 +41,7 @@ export default function Home() {
             and I was a VP at the <a href="https://mcgillai.com">McGill Artificial Intelligence Society</a> (now Senior Advisor).
           </li>
           <li>
-            I'm a full-stack software engineer by trade, 
+            I&apos;m a full-stack software engineer by trade, 
             with professional experience mostly in web and mobile development. 
           </li>
           <li>
@@ -52,9 +52,9 @@ export default function Home() {
         <h2>Technical stuff</h2>
         <ul>
           <li>
-          I really love AI&ML, and I've been hanging out with the folks at McGill Artificial Intelligence society to feed my interest. 
-          It's been awesome because I've both learned a ton about AI&ML and got to help others out. 
-          Plus, I've become pretty good at using Python and exploring all its ecosystem.
+          I really love AI&ML, and I&apos;ve been hanging out with the folks at McGill Artificial Intelligence society to feed my interest. 
+          It&apos;s been awesome because I&apos;ve both learned a ton about AI&ML and got to help others out. 
+          Plus, I&apos;ve become pretty good at using Python and exploring all its ecosystem.
           </li>
           <li>
             For front-end web technologies, I have experience with both React and Angular, 
@@ -63,7 +63,7 @@ export default function Home() {
           </li>
           <li>
             On the back-end, I built most of my things using Node.js, Express.js and Flask.
-            However, I'm also experimenting with Go, 
+            However, I&apos;m also experimenting with Go, 
             as well as Rust + axum for <i><b> blazingly fast </b></i> results! 🦀
           </li>
         </ul>
