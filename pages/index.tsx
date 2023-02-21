@@ -64,7 +64,7 @@ export default function Home() {
           <li>
             On the back-end, I built most of my things using Node.js, Express.js and Flask.
             However, I'm also experimenting with Go, 
-            as well as Rust + actix-web for <i><b> blazingly fast </b></i> results! 🦀
+            as well as Rust + axum for <i><b> blazingly fast </b></i> results! 🦀
           </li>
         </ul>
 
@@ -78,7 +78,7 @@ export default function Home() {
 
 
         <h2>Projects</h2>
-        <p>Non-exhaustive list of projects outside of work</p>
+        <p>Non-exhaustive list of projects outside of work:</p>
         <ul>
           <li>
             <a href="https://hack4-pan.vercel.app">Hack4Pan</a> —
