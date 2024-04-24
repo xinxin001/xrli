@@ -21,6 +21,7 @@ export default function Home() {
           alt='headshot'
           className={utilStyles.borderCircle}
         />
+        <br />
         <p>
           Hi, I&apos;m xrli.
           <br />
