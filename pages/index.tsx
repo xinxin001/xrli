@@ -65,6 +65,23 @@ export default function Home() {
 
         <div className={styles.experienceContainer}>
           <h2>Professional Experience</h2>
+          {/* Crimp Entry */}
+          <div className={styles.experienceEntry}>
+            <span className={styles.company}>
+              <a
+                href='https://www.crimpout.com'
+                target='_blank'
+                rel='noopener noreferrer'
+                className={styles.companyLink}
+              >
+                <b>Crimp</b>
+              </a>
+            </span>
+            <span className={styles.title}>Co-founder - CEO</span>
+            <span className={styles.location}>Montreal, QC</span>
+            <span className={styles.date}>May 2023 to Present</span>
+          </div>
+
           {/* Fairstone Entry */}
           <div className={styles.experienceEntry}>
             <span className={styles.company}>
@@ -82,6 +99,8 @@ export default function Home() {
             <span className={styles.company}>
               <a
                 href='https://github.com/orchard-ai/ndex-backend'
+                target='_blank'
+                rel='noopener noreferrer'
                 className={styles.companyLink}
               >
                 <b>ndex</b>
