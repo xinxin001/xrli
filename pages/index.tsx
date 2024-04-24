@@ -43,16 +43,24 @@ export default function Home() {
             (now Senior Advisor).
           </li>
           <li>
-            I&apos;m a full-stack software engineer by trade, with professional
+            I&apos;m a full-stack software engineer, with professional
             experience mostly in back-end and infrastructure.
           </li>
           <li>
-            In my free time, I like to work on game development, embedded
-            systems, financial tools, and other random stuff.
+            Currently working on building{' '}
+            <a
+              href='https://www.crimpout.com'
+              target='_blank'
+              rel='noopener noreferrer'
+              className={styles.companyLink}
+            >
+              <b>Crimp</b>
+            </a>{' '}
+            for iOS
           </li>
         </ul>
 
-        <h2>Technical stuff</h2>
+        {/* <h2>Technical stuff</h2>
         <ul>
           <li>
             I really love AI&ML, and I&apos;ve been hanging out with the folks
@@ -61,7 +69,7 @@ export default function Home() {
             AI&ML and got to help others out. Plus, I&apos;ve become pretty good
             at using Python and exploring all its ecosystem.
           </li>
-        </ul>
+        </ul> */}
 
         <div className={styles.experienceContainer}>
           <h2>Professional Experience</h2>
