@@ -87,7 +87,7 @@ export default function Home() {
             </span>
             <span className={styles.title}>Co-founder - CEO</span>
             <span className={styles.location}>Montreal, QC</span>
-            <span className={styles.date}>May 2023 to Present</span>
+            <span className={styles.date}>April 2024 to Present</span>
           </div>
 
           {/* Fairstone Entry */}
